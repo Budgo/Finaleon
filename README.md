@@ -36,13 +36,21 @@ witch mod
 		- Costs 200 AP per second over 5 seconds
 		- Teleports victim to provided waystone's location
 - [ ] Infusions
+
 	*Infusions channel magic into their caster, providing them with special powers*
+
 - [ ] Hazes
+
 	*Hazes enchant a given area and have many different abilities*
+
 	*They can provide an effect to whitelisted players*
+
 	*Shield blacklisted players from their harm*
+
 	*Or create passive terrain effects*
+
 	*Hazes cost a huge amount of Altar Power to start, and a small amount of Altar Power to maintain*
+
 	- [ ] Boon of Protection
 		- Grants all taglocked players Resistance II and Fire Resistance
 	- [ ] Boon of Sanctuary
@@ -50,7 +58,7 @@ witch mod
 	- [ ] Boon of Grace
 		- Grants all taglocked players Speed II
 	- [ ] Boon of Deluge
-		- 
+		- Causes permanent rain
 	- [ ] Antiboon of Weakening
 	- [ ] Antiboon of Confusion
 	- [ ] Antiboon of Hell
